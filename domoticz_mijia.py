@@ -89,11 +89,11 @@ def update(address,idx_temp):
 	
 
 print("\n1: updating")
-update("4C:65:A8:D0:4C:98","700")
+update("4C:65:A8:D0:4C:98","375")
 
-update("4C:65:A8:D0:26:D2","753")
+update("4C:65:A8:D0:26:D2","376")
 
-update("4C:65:A8:D0:57:2A","754")
+update("4C:65:A8:D0:57:2A","377")
 
 
 
