@@ -8,7 +8,7 @@ from mijia.mijia_poller import MijiaPoller, \
 
 # Forum see: http://domoticz.com/forum/viewtopic.php?f=56&t=13306&hilit=mi+flora&start=20#p105255
 
-domoticzserver   = "127.0.0.1:8000"
+domoticzserver   = "127.0.0.1:8080"
 domoticzusername = ""
 domoticzpassword = ""
 
